@@ -1253,7 +1253,7 @@
     transform-style: preserve-3d;
   }
 
-  .single-card.tapped {
+  .single-card:hover {
     transform: rotateY(180deg);
   }
 
